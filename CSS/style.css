@@ -9,11 +9,30 @@ h2 {
 }
 
 p {
-  color: green;
   font-family: sans-serif;
 }
 
 ul {
-  font-size: 20px;
+  width: 50%;
   line-height: 30px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.important {
+  color: red;
+}
+
+.intro {
+  width: 75%;
+  font-style: italic;
+}
+
+.author {
+  color: blue;
+}
+
+.nope {
+  color: red;
+  font-style: italic;
 }
